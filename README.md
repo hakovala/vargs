@@ -1,9 +1,10 @@
-
-= vargs =
+vargs
+=====
 
 Node.js module for variable argument handling for functions taking a callback.
 
-=== synopsis ===
+synopsis
+--------
 
     var Args = require('vargs');
 
